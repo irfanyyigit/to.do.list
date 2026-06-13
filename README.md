@@ -57,9 +57,9 @@ Using the To-Do List Application is straightforward:
 2. **Enter** your task in the input field at the top
 3. **Add Task** by clicking the add button or pressing Enter
 4. **Manage Tasks** using the action buttons:
-   - **Checkmark (✔)** - Mark task as completed
-   - **Edit (✎)** - Modify the task text
-   - **Delete (🗑)** - Remove the task from your list
+   - **Checkmark** - Mark task as completed
+   - **Edit** - Modify the task text
+   - **Delete** - Remove the task from your list
 5. **View Progress** - See completed tasks displayed with visual distinction
 
 ---
@@ -115,15 +115,3 @@ The application emphasizes:
 
 - **Enter** - Add new task (when input field is active)
 - **Click Buttons** - Perform specific task actions
-
----
-
-## Author
-
-Developed by İrfan Yiğit for efficient task management and productivity
-
----
-
-## License
-
-This project is open source and available for educational and personal use.
